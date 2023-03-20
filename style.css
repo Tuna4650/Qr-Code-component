@@ -1,0 +1,36 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.card {
+    border-radius: 15px;
+
+}
+
+.card-img-top {
+    padding: 5%;
+    border-radius: 25px;
+}
+
+.card-title {
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+
+.card-text {
+    padding-top: 4%;
+    padding-bottom: 8%;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    line-height: 100%;
+}
